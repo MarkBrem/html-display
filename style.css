@@ -1,0 +1,28 @@
+.box{
+    border: solid 2px tomato;
+    padding-top: 15px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    margin: 20px;
+
+    width: 600px;
+}
+
+
+.link{
+    border: solid 1px green;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+li{
+    margin: 10 px;
+}
+
+p{
+    border: solid 2px red; 
+    padding: 5px;
+}
